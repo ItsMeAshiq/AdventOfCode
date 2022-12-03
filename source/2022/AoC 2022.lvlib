@@ -13,6 +13,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Day 1" Type="Folder">
 		<Item Name="Day 1 - Calorie Counting.vi" Type="VI" URL="../Day 1 - Calorie Counting/Day 1 - Calorie Counting.vi"/>
+		<Item Name="Day 1 input.txt" Type="Document" URL="../Day 1 - Calorie Counting/Day 1 input.txt"/>
 	</Item>
 	<Item Name="Day 2" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -25,8 +26,16 @@
 		</Item>
 		<Item Name="Day 2 - Rock Paper Scissors.vi" Type="VI" URL="../Day 2 - Rock Paper Scissors/Day 2 - Rock Paper Scissors.vi"/>
 		<Item Name="Play Item.ctl" Type="VI" URL="../Day 2 - Rock Paper Scissors/Play Item.ctl"/>
+		<Item Name="Day 2 input.txt" Type="Document" URL="../Day 2 - Rock Paper Scissors/Day 2 input.txt"/>
 	</Item>
-	<Item Name="Day 3" Type="Folder"/>
+	<Item Name="Day 3" Type="Folder">
+		<Item Name="private" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Get Type Priority.vi" Type="VI" URL="../Day 3 - Rucksack Reorganization/private/Get Type Priority.vi"/>
+		</Item>
+		<Item Name="Day 3 - Rucksack Reorganization.vi" Type="VI" URL="../Day 3 - Rucksack Reorganization/Day 3 - Rucksack Reorganization.vi"/>
+		<Item Name="Day 3 input.txt" Type="Document" URL="../Day 3 - Rucksack Reorganization/Day 3 input.txt"/>
+	</Item>
 	<Item Name="Day 4" Type="Folder"/>
 	<Item Name="Day 5" Type="Folder"/>
 	<Item Name="Day 6" Type="Folder"/>

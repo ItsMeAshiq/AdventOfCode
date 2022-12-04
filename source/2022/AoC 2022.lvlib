@@ -36,7 +36,14 @@
 		<Item Name="Day 3 - Rucksack Reorganization.vi" Type="VI" URL="../Day 3 - Rucksack Reorganization/Day 3 - Rucksack Reorganization.vi"/>
 		<Item Name="Day 3 input.txt" Type="Document" URL="../Day 3 - Rucksack Reorganization/Day 3 input.txt"/>
 	</Item>
-	<Item Name="Day 4" Type="Folder"/>
+	<Item Name="Day 4" Type="Folder">
+		<Item Name="private" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Expand Section Range.vi" Type="VI" URL="../Day 4 - Camp Cleanup/private/Expand Section Range.vi"/>
+			<Item Name="Extract Section End Points.vi" Type="VI" URL="../Day 4 - Camp Cleanup/private/Extract Section End Points.vi"/>
+		</Item>
+		<Item Name="Day 4 - Camp Cleanup.vi" Type="VI" URL="../Day 4 - Camp Cleanup/Day 4 - Camp Cleanup.vi"/>
+	</Item>
 	<Item Name="Day 5" Type="Folder"/>
 	<Item Name="Day 6" Type="Folder"/>
 	<Item Name="Day 7" Type="Folder"/>

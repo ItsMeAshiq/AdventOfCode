@@ -13,6 +13,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Day 1" Type="Folder">
 		<Item Name="Day 1 - Calorie Counting.vi" Type="VI" URL="../Day 1 - Calorie Counting/Day 1 - Calorie Counting.vi"/>
+		<Item Name="Day 1 - Puzzle.md" Type="Document" URL="../Day 1 - Calorie Counting/Day 1 - Puzzle.md"/>
 		<Item Name="Day 1 input.txt" Type="Document" URL="../Day 1 - Calorie Counting/Day 1 input.txt"/>
 	</Item>
 	<Item Name="Day 2" Type="Folder">
@@ -23,28 +24,52 @@
 			<Item Name="Play Item Score.vi" Type="VI" URL="../Day 2 - Rock Paper Scissors/private/Play Item Score.vi"/>
 			<Item Name="Calculate Round Score.vi" Type="VI" URL="../Day 2 - Rock Paper Scissors/private/Calculate Round Score.vi"/>
 			<Item Name="Decrypt Play Action.vi" Type="VI" URL="../Day 2 - Rock Paper Scissors/private/Decrypt Play Action.vi"/>
+			<Item Name="Play Item.ctl" Type="VI" URL="../Day 2 - Rock Paper Scissors/private/Play Item.ctl"/>
 		</Item>
 		<Item Name="Day 2 - Rock Paper Scissors.vi" Type="VI" URL="../Day 2 - Rock Paper Scissors/Day 2 - Rock Paper Scissors.vi"/>
-		<Item Name="Play Item.ctl" Type="VI" URL="../Day 2 - Rock Paper Scissors/Play Item.ctl"/>
+		<Item Name="Day 2 - Puzzle.md" Type="Document" URL="../Day 2 - Rock Paper Scissors/Day 2 - Puzzle.md"/>
 		<Item Name="Day 2 input.txt" Type="Document" URL="../Day 2 - Rock Paper Scissors/Day 2 input.txt"/>
 	</Item>
 	<Item Name="Day 3" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			<Item Name="Get Type Priority.vi" Type="VI" URL="../Day 3 - Rucksack Reorganization/private/Get Type Priority.vi"/>
 		</Item>
 		<Item Name="Day 3 - Rucksack Reorganization.vi" Type="VI" URL="../Day 3 - Rucksack Reorganization/Day 3 - Rucksack Reorganization.vi"/>
+		<Item Name="Day 3 - Puzzle.md" Type="Document" URL="../Day 3 - Rucksack Reorganization/Day 3 - Puzzle.md"/>
 		<Item Name="Day 3 input.txt" Type="Document" URL="../Day 3 - Rucksack Reorganization/Day 3 input.txt"/>
 	</Item>
 	<Item Name="Day 4" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			<Item Name="Expand Section Range.vi" Type="VI" URL="../Day 4 - Camp Cleanup/private/Expand Section Range.vi"/>
 			<Item Name="Extract Section End Points.vi" Type="VI" URL="../Day 4 - Camp Cleanup/private/Extract Section End Points.vi"/>
 		</Item>
 		<Item Name="Day 4 - Camp Cleanup.vi" Type="VI" URL="../Day 4 - Camp Cleanup/Day 4 - Camp Cleanup.vi"/>
+		<Item Name="Day 4 - Puzzle.md" Type="Document" URL="../Day 4 - Camp Cleanup/Day 4 - Puzzle.md"/>
+		<Item Name="Day 4 - input.txt" Type="Document" URL="../Day 4 - Camp Cleanup/Day 4 - input.txt"/>
 	</Item>
-	<Item Name="Day 5" Type="Folder"/>
+	<Item Name="Day 5" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="private" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Cranes" Type="Folder">
+				<Item Name="CrateMover 9000.vi" Type="VI" URL="../Day 5 - Supply Stacks/private/Cranes/CrateMover 9000.vi"/>
+				<Item Name="CrateMover 9001.vi" Type="VI" URL="../Day 5 - Supply Stacks/private/Cranes/CrateMover 9001.vi"/>
+				<Item Name="Decode Crane Instruction.vi" Type="VI" URL="../Day 5 - Supply Stacks/private/Cranes/Decode Crane Instruction.vi"/>
+			</Item>
+			<Item Name="Cargo.ctl" Type="VI" URL="../Day 5 - Supply Stacks/private/Cargo.ctl"/>
+			<Item Name="Convert Crate Drawing to IDs.vi" Type="VI" URL="../Day 5 - Supply Stacks/private/Convert Crate Drawing to IDs.vi"/>
+			<Item Name="Extract Puzzle Details.vi" Type="VI" URL="../Day 5 - Supply Stacks/private/Extract Puzzle Details.vi"/>
+			<Item Name="Get Top Most Crates.vi" Type="VI" URL="../Day 5 - Supply Stacks/private/Get Top Most Crates.vi"/>
+			<Item Name="Prepare Cargo Details.vi" Type="VI" URL="../Day 5 - Supply Stacks/private/Prepare Cargo Details.vi"/>
+		</Item>
+		<Item Name="Day 5 - Supply Stacks.vi" Type="VI" URL="../Day 5 - Supply Stacks/Day 5 - Supply Stacks.vi"/>
+		<Item Name="Day 5 - Puzzle.md" Type="Document" URL="../Day 5 - Supply Stacks/Day 5 - Puzzle.md"/>
+		<Item Name="Day 5 - input.txt" Type="Document" URL="../Day 5 - Supply Stacks/Day 5 - input.txt"/>
+	</Item>
 	<Item Name="Day 6" Type="Folder"/>
 	<Item Name="Day 7" Type="Folder"/>
 	<Item Name="Day 8" Type="Folder"/>

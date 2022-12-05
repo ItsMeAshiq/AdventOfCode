@@ -55,6 +55,3 @@ To avoid this unacceptable situation, the Elves would instead like to know the t
 In the example above, the top three Elves are the fourth Elf (with `24000` Calories), then the third Elf (with `11000` Calories), then the fifth Elf (with `10000` Calories). The sum of the Calories carried by these three elves is _`45000`_.
 
 Find the top three Elves carrying the most Calories. _How many Calories are those Elves carrying in total?_
-
----
->## [Solution](.)

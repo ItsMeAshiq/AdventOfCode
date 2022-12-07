@@ -73,23 +73,83 @@
 		<Item Name="Day 6 - input.txt" Type="Document" URL="../Day 6 - Tuning Trouble/Day 6 - input.txt"/>
 		<Item Name="Day 6 - Tuning Trouble.vi" Type="VI" URL="../Day 6 - Tuning Trouble/Day 6 - Tuning Trouble.vi"/>
 	</Item>
-	<Item Name="Day 7" Type="Folder"/>
-	<Item Name="Day 8" Type="Folder"/>
-	<Item Name="Day 9" Type="Folder"/>
-	<Item Name="Day 10" Type="Folder"/>
-	<Item Name="Day 11" Type="Folder"/>
-	<Item Name="Day 12" Type="Folder"/>
-	<Item Name="Day 13" Type="Folder"/>
-	<Item Name="Day 14" Type="Folder"/>
-	<Item Name="Day 15" Type="Folder"/>
-	<Item Name="Day 16" Type="Folder"/>
-	<Item Name="Day 17" Type="Folder"/>
-	<Item Name="Day 18" Type="Folder"/>
-	<Item Name="Day 19" Type="Folder"/>
-	<Item Name="Day 20" Type="Folder"/>
-	<Item Name="Day 21" Type="Folder"/>
-	<Item Name="Day 22" Type="Folder"/>
-	<Item Name="Day 23" Type="Folder"/>
-	<Item Name="Day 24" Type="Folder"/>
-	<Item Name="Day 25" Type="Folder"/>
+	<Item Name="Day 7" Type="Folder">
+		<Item Name="private" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="Tree" Type="Folder">
+				<Item Name="Build Tree View.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Tree/Build Tree View.vi"/>
+				<Item Name="Add Directory to Tree View.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Tree/Add Directory to Tree View.vi"/>
+			</Item>
+			<Item Name="Calculate Directory Size (recursive).vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Calculate Directory Size (recursive).vi"/>
+			<Item Name="Build Directory Tree.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Build Directory Tree.vi"/>
+			<Item Name="Calculate Directory Size.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Calculate Directory Size.vi"/>
+			<Item Name="Directory Contents.ctl" Type="VI" URL="../Day 7 - No Space Left On Device/private/Directory Contents.ctl"/>
+			<Item Name="Directory Tree.ctl" Type="VI" URL="../Day 7 - No Space Left On Device/private/Directory Tree.ctl"/>
+			<Item Name="Directory Separator.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Directory Separator.vi"/>
+			<Item Name="File.ctl" Type="VI" URL="../Day 7 - No Space Left On Device/private/File.ctl"/>
+			<Item Name="Find Item Type.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Find Item Type.vi"/>
+			<Item Name="Find Parent of a Directory.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Find Parent of a Directory.vi"/>
+			<Item Name="Root Directory.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Root Directory.vi"/>
+			<Item Name="Build Full Directory Path.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Build Full Directory Path.vi"/>
+		</Item>
+		<Item Name="Day 7 - input.txt" Type="Document" URL="../Day 7 - No Space Left On Device/Day 7 - input.txt"/>
+		<Item Name="Day 7 - No Space Left On Device.vi" Type="VI" URL="../Day 7 - No Space Left On Device/Day 7 - No Space Left On Device.vi"/>
+	</Item>
+	<Item Name="Day 8" Type="Folder">
+		<Item Name="private" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+	</Item>
+	<Item Name="Day 9" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 10" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 11" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 12" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 13" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 14" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 15" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 16" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 17" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 18" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 19" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 20" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 21" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 22" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 23" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 24" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
+	<Item Name="Day 25" Type="Folder">
+		<Item Name="private" Type="Folder"/>
+	</Item>
 </Library>

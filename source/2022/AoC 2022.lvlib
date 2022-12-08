@@ -99,7 +99,12 @@
 	<Item Name="Day 8" Type="Folder">
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Calculate Scenic Scores.vi" Type="VI" URL="../Day 8 - Treetop Tree House/private/Calculate Scenic Scores.vi"/>
+			<Item Name="Find Next Visible Trees.vi" Type="VI" URL="../Day 8 - Treetop Tree House/private/Find Next Visible Trees.vi"/>
+			<Item Name="Find Visible Trees.vi" Type="VI" URL="../Day 8 - Treetop Tree House/private/Find Visible Trees.vi"/>
 		</Item>
+		<Item Name="Day 8 - input.txt" Type="Document" URL="../Day 8 - Treetop Tree House/Day 8 - input.txt"/>
+		<Item Name="Day 8 - Treetop Tree House.vi" Type="VI" URL="../Day 8 - Treetop Tree House/Day 8 - Treetop Tree House.vi"/>
 	</Item>
 	<Item Name="Day 9" Type="Folder">
 		<Item Name="private" Type="Folder"/>

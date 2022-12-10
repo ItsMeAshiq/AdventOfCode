@@ -107,10 +107,33 @@
 		<Item Name="Day 8 - Treetop Tree House.vi" Type="VI" URL="../Day 8 - Treetop Tree House/Day 8 - Treetop Tree House.vi"/>
 	</Item>
 	<Item Name="Day 9" Type="Folder">
-		<Item Name="private" Type="Folder"/>
+		<Item Name="private" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Visualisation" Type="Folder">
+				<Item Name="Prepare Rope Grid List.vi" Type="VI" URL="../Day 9 - Rope Bridge/private/Visualisation/Prepare Rope Grid List.vi"/>
+				<Item Name="Prepare Rope Grid.vi" Type="VI" URL="../Day 9 - Rope Bridge/private/Visualisation/Prepare Rope Grid.vi"/>
+				<Item Name="Simulate Rop Graph.vi" Type="VI" URL="../Day 9 - Rope Bridge/private/Visualisation/Simulate Rop Graph.vi"/>
+				<Item Name="Simulate String Grid.vi" Type="VI" URL="../Day 9 - Rope Bridge/private/Visualisation/Simulate String Grid.vi"/>
+			</Item>
+			<Item Name="Calculate Grid Size.vi" Type="VI" URL="../Day 9 - Rope Bridge/private/Calculate Grid Size.vi"/>
+			<Item Name="Find Next Position of H.vi" Type="VI" URL="../Day 9 - Rope Bridge/private/Find Next Position of H.vi"/>
+			<Item Name="Find Next Position of T - Buggy.vi" Type="VI" URL="../Day 9 - Rope Bridge/private/Find Next Position of T - Buggy.vi"/>
+			<Item Name="Find Next Position of T.vi" Type="VI" URL="../Day 9 - Rope Bridge/private/Find Next Position of T.vi"/>
+			<Item Name="Positions.ctl" Type="VI" URL="../Day 9 - Rope Bridge/private/Positions.ctl"/>
+			<Item Name="Rope Data.ctl" Type="VI" URL="../Day 9 - Rope Bridge/private/Rope Data.ctl"/>
+			<Item Name="Simulate Rope Data.vi" Type="VI" URL="../Day 9 - Rope Bridge/private/Simulate Rope Data.vi"/>
+		</Item>
+		<Item Name="Day 9 - input.txt" Type="Document" URL="../Day 9 - Rope Bridge/Day 9 - input.txt"/>
+		<Item Name="Day 9 - Rope Bridge.vi" Type="VI" URL="../Day 9 - Rope Bridge/Day 9 - Rope Bridge.vi"/>
 	</Item>
 	<Item Name="Day 10" Type="Folder">
-		<Item Name="private" Type="Folder"/>
+		<Item Name="private" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Calculate Register X.vi" Type="VI" URL="../Day 10 - Cathode Ray Tube/private/Calculate Register X.vi"/>
+			<Item Name="Output CRT Display.vi" Type="VI" URL="../Day 10 - Cathode Ray Tube/private/Output CRT Display.vi"/>
+		</Item>
+		<Item Name="Day 10 - Cathode Ray Tube.vi" Type="VI" URL="../Day 10 - Cathode Ray Tube/Day 10 - Cathode Ray Tube.vi"/>
+		<Item Name="Day 10 - input.txt" Type="Document" URL="../Day 10 - Cathode Ray Tube/Day 10 - input.txt"/>
 	</Item>
 	<Item Name="Day 11" Type="Folder">
 		<Item Name="private" Type="Folder"/>

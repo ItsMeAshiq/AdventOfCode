@@ -136,7 +136,21 @@
 		<Item Name="Day 10 - input.txt" Type="Document" URL="../Day 10 - Cathode Ray Tube/Day 10 - input.txt"/>
 	</Item>
 	<Item Name="Day 11" Type="Folder">
-		<Item Name="private" Type="Folder"/>
+		<Item Name="private" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Add Item.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Add Item.vi"/>
+			<Item Name="Carry out Monkey Activities.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Carry out Monkey Activities.vi"/>
+			<Item Name="Increment Inspection Count.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Increment Inspection Count.vi"/>
+			<Item Name="Monkey.ctl" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Monkey.ctl"/>
+			<Item Name="Monkeys.ctl" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Monkeys.ctl"/>
+			<Item Name="Numeric Operation.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Numeric Operation.vi"/>
+			<Item Name="Prepare Monkeys from Notes.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Prepare Monkeys from Notes.vi"/>
+			<Item Name="Split Operator &amp; Operand.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Split Operator &amp; Operand.vi"/>
+			<Item Name="Test Worry Level.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Test Worry Level.vi"/>
+			<Item Name="Update Bored Operation.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Update Bored Operation.vi"/>
+		</Item>
+		<Item Name="Day 11 - input.txt" Type="Document" URL="../Day 11 - Monkey in the Middle/Day 11 - input.txt"/>
+		<Item Name="Day 11 -Monkey in the Middle.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/Day 11 -Monkey in the Middle.vi"/>
 	</Item>
 	<Item Name="Day 12" Type="Folder">
 		<Item Name="private" Type="Folder"/>

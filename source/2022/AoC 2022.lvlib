@@ -153,7 +153,21 @@
 		<Item Name="Day 11 -Monkey in the Middle.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/Day 11 -Monkey in the Middle.vi"/>
 	</Item>
 	<Item Name="Day 12" Type="Folder">
-		<Item Name="private" Type="Folder"/>
+		<Item Name="private" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Add Path.vi" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Add Path.vi"/>
+			<Item Name="Am I Beside Destination.vi" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Am I Beside Destination.vi"/>
+			<Item Name="Build Path.vi" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Build Path.vi"/>
+			<Item Name="Can I Reach Destination.vim" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Can I Reach Destination.vim"/>
+			<Item Name="Direction.ctl" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Direction.ctl"/>
+			<Item Name="Find Nearest Locations to Explore.vim" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Find Nearest Locations to Explore.vim"/>
+			<Item Name="Get Elevations.vim" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Get Elevations.vim"/>
+			<Item Name="Path Finder.vi" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Path Finder.vi"/>
+			<Item Name="Path.ctl" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Path.ctl"/>
+			<Item Name="Paths.ctl" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Paths.ctl"/>
+			<Item Name="Prepare Elevation Grid.vi" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/private/Prepare Elevation Grid.vi"/>
+		</Item>
+		<Item Name="Day 12 - Hill Climbing Algorithm.vi" Type="VI" URL="../Day 12 - Hill Climbing Algorithm/Day 12 - Hill Climbing Algorithm.vi"/>
 	</Item>
 	<Item Name="Day 13" Type="Folder">
 		<Item Name="private" Type="Folder"/>

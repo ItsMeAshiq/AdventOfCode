@@ -20,6 +20,8 @@
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
+		<Item Name="Day 2 - Cube Conundrum.vi" Type="VI" URL="../Day 2 - Cube Conundrum/Day 2 - Cube Conundrum.vi"/>
+		<Item Name="Day 2 input.txt" Type="Document" URL="../Day 2 - Cube Conundrum/Day 2 input.txt"/>
 	</Item>
 	<Item Name="Day 3" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>

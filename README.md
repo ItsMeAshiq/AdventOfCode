@@ -20,7 +20,7 @@ Language used: **LabVIEW** (2020)
 ## [Advent of Code 2023](./source/2023/)
 |     |     |     |     |     |
 |:-:|:-:|:-:|:-:|:-:|
-|[Day 1](./source/2023/Day%201%20-%20Trebuchet/)|Day 2|Day 3|Day 4|Day 5|
+|[Day 1](./source/2023/Day%201%20-%20Trebuchet/)|[Day 2](./source/2023/Day%202%20-%20Cube%20Conundrum/)|Day 3|Day 4|Day 5|
 |Day 6|Day 7|Day 8|Day 9|Day 10|
 |Day 11|Day 12|Day 13|Day 14|Day 15|
 |Day 16|Day 17|Day 18|Day 19|Day 20|

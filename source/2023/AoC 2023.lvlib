@@ -28,6 +28,8 @@
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
+		<Item Name="Day 3 - Gear Ratios.vi" Type="VI" URL="../Day 3 - Gear Ratios/Day 3 - Gear Ratios.vi"/>
+		<Item Name="Day 3 input.txt" Type="Document" URL="../Day 3 - Gear Ratios/Day 3 input.txt"/>
 	</Item>
 	<Item Name="Day 4" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>

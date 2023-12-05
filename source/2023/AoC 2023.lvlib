@@ -43,8 +43,9 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-			<Item Name="Cranes" Type="Folder"/>
+			<Item Name="Get Seed Locations.vi" Type="VI" URL="../Day 5 - If You Give A Seed A Fertilizer/Get Seed Locations.vi"/>
 		</Item>
+		<Item Name="Day 5 - If You Give A Seed A Fertilizer.vi" Type="VI" URL="../Day 5 - If You Give A Seed A Fertilizer/Day 5 - If You Give A Seed A Fertilizer.vi"/>
 	</Item>
 	<Item Name="Day 6" Type="Folder">
 		<Item Name="private" Type="Folder">

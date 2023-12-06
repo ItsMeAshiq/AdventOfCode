@@ -13,7 +13,6 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Day 1" Type="Folder">
 		<Item Name="Day 1 - Calorie Counting.vi" Type="VI" URL="../Day 1 - Calorie Counting/Day 1 - Calorie Counting.vi"/>
-		<Item Name="Day 1 input.txt" Type="Document" URL="../Day 1 - Calorie Counting/Day 1 input.txt"/>
 	</Item>
 	<Item Name="Day 2" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -26,7 +25,6 @@
 			<Item Name="Play Item.ctl" Type="VI" URL="../Day 2 - Rock Paper Scissors/private/Play Item.ctl"/>
 		</Item>
 		<Item Name="Day 2 - Rock Paper Scissors.vi" Type="VI" URL="../Day 2 - Rock Paper Scissors/Day 2 - Rock Paper Scissors.vi"/>
-		<Item Name="Day 2 input.txt" Type="Document" URL="../Day 2 - Rock Paper Scissors/Day 2 input.txt"/>
 	</Item>
 	<Item Name="Day 3" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -35,7 +33,6 @@
 			<Item Name="Get Type Priority.vi" Type="VI" URL="../Day 3 - Rucksack Reorganization/private/Get Type Priority.vi"/>
 		</Item>
 		<Item Name="Day 3 - Rucksack Reorganization.vi" Type="VI" URL="../Day 3 - Rucksack Reorganization/Day 3 - Rucksack Reorganization.vi"/>
-		<Item Name="Day 3 input.txt" Type="Document" URL="../Day 3 - Rucksack Reorganization/Day 3 input.txt"/>
 	</Item>
 	<Item Name="Day 4" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -45,7 +42,6 @@
 			<Item Name="Extract Section End Points.vi" Type="VI" URL="../Day 4 - Camp Cleanup/private/Extract Section End Points.vi"/>
 		</Item>
 		<Item Name="Day 4 - Camp Cleanup.vi" Type="VI" URL="../Day 4 - Camp Cleanup/Day 4 - Camp Cleanup.vi"/>
-		<Item Name="Day 4 - input.txt" Type="Document" URL="../Day 4 - Camp Cleanup/Day 4 - input.txt"/>
 	</Item>
 	<Item Name="Day 5" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -63,14 +59,12 @@
 			<Item Name="Prepare Cargo Details.vi" Type="VI" URL="../Day 5 - Supply Stacks/private/Prepare Cargo Details.vi"/>
 		</Item>
 		<Item Name="Day 5 - Supply Stacks.vi" Type="VI" URL="../Day 5 - Supply Stacks/Day 5 - Supply Stacks.vi"/>
-		<Item Name="Day 5 - input.txt" Type="Document" URL="../Day 5 - Supply Stacks/Day 5 - input.txt"/>
 	</Item>
 	<Item Name="Day 6" Type="Folder">
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			<Item Name="Find Marker Location.vi" Type="VI" URL="../Day 6 - Tuning Trouble/private/Find Marker Location.vi"/>
 		</Item>
-		<Item Name="Day 6 - input.txt" Type="Document" URL="../Day 6 - Tuning Trouble/Day 6 - input.txt"/>
 		<Item Name="Day 6 - Tuning Trouble.vi" Type="VI" URL="../Day 6 - Tuning Trouble/Day 6 - Tuning Trouble.vi"/>
 	</Item>
 	<Item Name="Day 7" Type="Folder">
@@ -93,7 +87,6 @@
 			<Item Name="Root Directory.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Root Directory.vi"/>
 			<Item Name="Build Full Directory Path.vi" Type="VI" URL="../Day 7 - No Space Left On Device/private/Build Full Directory Path.vi"/>
 		</Item>
-		<Item Name="Day 7 - input.txt" Type="Document" URL="../Day 7 - No Space Left On Device/Day 7 - input.txt"/>
 		<Item Name="Day 7 - No Space Left On Device.vi" Type="VI" URL="../Day 7 - No Space Left On Device/Day 7 - No Space Left On Device.vi"/>
 	</Item>
 	<Item Name="Day 8" Type="Folder">
@@ -103,7 +96,6 @@
 			<Item Name="Find Next Visible Trees.vi" Type="VI" URL="../Day 8 - Treetop Tree House/private/Find Next Visible Trees.vi"/>
 			<Item Name="Find Visible Trees.vi" Type="VI" URL="../Day 8 - Treetop Tree House/private/Find Visible Trees.vi"/>
 		</Item>
-		<Item Name="Day 8 - input.txt" Type="Document" URL="../Day 8 - Treetop Tree House/Day 8 - input.txt"/>
 		<Item Name="Day 8 - Treetop Tree House.vi" Type="VI" URL="../Day 8 - Treetop Tree House/Day 8 - Treetop Tree House.vi"/>
 	</Item>
 	<Item Name="Day 9" Type="Folder">
@@ -123,7 +115,6 @@
 			<Item Name="Rope Data.ctl" Type="VI" URL="../Day 9 - Rope Bridge/private/Rope Data.ctl"/>
 			<Item Name="Simulate Rope Data.vi" Type="VI" URL="../Day 9 - Rope Bridge/private/Simulate Rope Data.vi"/>
 		</Item>
-		<Item Name="Day 9 - input.txt" Type="Document" URL="../Day 9 - Rope Bridge/Day 9 - input.txt"/>
 		<Item Name="Day 9 - Rope Bridge.vi" Type="VI" URL="../Day 9 - Rope Bridge/Day 9 - Rope Bridge.vi"/>
 	</Item>
 	<Item Name="Day 10" Type="Folder">
@@ -133,7 +124,6 @@
 			<Item Name="Output CRT Display.vi" Type="VI" URL="../Day 10 - Cathode Ray Tube/private/Output CRT Display.vi"/>
 		</Item>
 		<Item Name="Day 10 - Cathode Ray Tube.vi" Type="VI" URL="../Day 10 - Cathode Ray Tube/Day 10 - Cathode Ray Tube.vi"/>
-		<Item Name="Day 10 - input.txt" Type="Document" URL="../Day 10 - Cathode Ray Tube/Day 10 - input.txt"/>
 	</Item>
 	<Item Name="Day 11" Type="Folder">
 		<Item Name="private" Type="Folder">
@@ -149,7 +139,6 @@
 			<Item Name="Test Worry Level.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Test Worry Level.vi"/>
 			<Item Name="Update Bored Operation.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/private/Update Bored Operation.vi"/>
 		</Item>
-		<Item Name="Day 11 - input.txt" Type="Document" URL="../Day 11 - Monkey in the Middle/Day 11 - input.txt"/>
 		<Item Name="Day 11 -Monkey in the Middle.vi" Type="VI" URL="../Day 11 - Monkey in the Middle/Day 11 -Monkey in the Middle.vi"/>
 	</Item>
 	<Item Name="Day 12" Type="Folder">
@@ -186,7 +175,6 @@
 			<Item Name="Populate Complete List Items.vi" Type="VI" URL="../Day 13 - Distress Signal/private/Populate Complete List Items.vi"/>
 		</Item>
 		<Item Name="Day 13 - Distress Signal.vi" Type="VI" URL="../Day 13 - Distress Signal/Day 13 - Distress Signal.vi"/>
-		<Item Name="Day 13 - input.txt" Type="Document" URL="../Day 13 - Distress Signal/Day 13 - input.txt"/>
 	</Item>
 	<Item Name="Day 14" Type="Folder">
 		<Item Name="private" Type="Folder">

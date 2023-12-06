@@ -13,7 +13,6 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Day 1" Type="Folder">
 		<Item Name="Day 1 - Trebuchet.vi" Type="VI" URL="../Day 1 - Trebuchet/Day 1 - Trebuchet.vi"/>
-		<Item Name="Day 1 input.txt" Type="Document" URL="../Day 1 - Trebuchet/Day 1 input.txt"/>
 	</Item>
 	<Item Name="Day 2" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -21,7 +20,6 @@
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 		<Item Name="Day 2 - Cube Conundrum.vi" Type="VI" URL="../Day 2 - Cube Conundrum/Day 2 - Cube Conundrum.vi"/>
-		<Item Name="Day 2 input.txt" Type="Document" URL="../Day 2 - Cube Conundrum/Day 2 input.txt"/>
 	</Item>
 	<Item Name="Day 3" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -29,7 +27,6 @@
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 		<Item Name="Day 3 - Gear Ratios.vi" Type="VI" URL="../Day 3 - Gear Ratios/Day 3 - Gear Ratios.vi"/>
-		<Item Name="Day 3 input.txt" Type="Document" URL="../Day 3 - Gear Ratios/Day 3 input.txt"/>
 	</Item>
 	<Item Name="Day 4" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -37,7 +34,6 @@
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 		<Item Name="Day 4 - Scratchcards.vi" Type="VI" URL="../Day 4 - Scratchcards/Day 4 - Scratchcards.vi"/>
-		<Item Name="Day 4 input.txt" Type="Document" URL="../Day 4 - Scratchcards/Day 4 input.txt"/>
 	</Item>
 	<Item Name="Day 5" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -50,7 +46,9 @@
 	<Item Name="Day 6" Type="Folder">
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Calculate Record Beatable Counts.vi" Type="VI" URL="../Day 6 - Wait For It/Calculate Record Beatable Counts.vi"/>
 		</Item>
+		<Item Name="Day 6 - Wait For It.vi" Type="VI" URL="../Day 6 - Wait For It/Day 6 - Wait For It.vi"/>
 	</Item>
 	<Item Name="Day 7" Type="Folder">
 		<Item Name="private" Type="Folder">

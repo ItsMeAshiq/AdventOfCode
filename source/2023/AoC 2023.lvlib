@@ -54,7 +54,11 @@
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="Type of a Hand.ctl" Type="VI" URL="../Day 7 - Camel Cards/Type of a Hand.ctl"/>
+			<Item Name="Get Type of a Hand.vi" Type="VI" URL="../Day 7 - Camel Cards/Get Type of a Hand.vi"/>
+			<Item Name="Get Strength of a Hand.vi" Type="VI" URL="../Day 7 - Camel Cards/Get Strength of a Hand.vi"/>
 		</Item>
+		<Item Name="Day 7 - Camel Cards.vi" Type="VI" URL="../Day 7 - Camel Cards/Day 7 - Camel Cards.vi"/>
 	</Item>
 	<Item Name="Day 8" Type="Folder">
 		<Item Name="private" Type="Folder">

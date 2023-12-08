@@ -63,7 +63,9 @@
 	<Item Name="Day 8" Type="Folder">
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Find Steps to Reach End.vi" Type="VI" URL="../Day 8 - Haunted Wasteland/Find Steps to Reach End.vi"/>
 		</Item>
+		<Item Name="Day 8 - Haunted Wasteland.vi" Type="VI" URL="../Day 8 - Haunted Wasteland/Day 8 - Haunted Wasteland.vi"/>
 	</Item>
 	<Item Name="Day 9" Type="Folder">
 		<Item Name="private" Type="Folder">

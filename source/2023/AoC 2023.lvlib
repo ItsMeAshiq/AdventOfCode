@@ -71,6 +71,7 @@
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
+		<Item Name="Day 9 - Mirage Maintenance.vi" Type="VI" URL="../Day 9 - Mirage Maintenance/Day 9 - Mirage Maintenance.vi"/>
 	</Item>
 	<Item Name="Day 10" Type="Folder">
 		<Item Name="private" Type="Folder">

@@ -76,7 +76,9 @@
 	<Item Name="Day 10" Type="Folder">
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Find Next Location.vi" Type="VI" URL="../Day 10 - Pipe Maze/Find Next Location.vi"/>
 		</Item>
+		<Item Name="Day 10 - Pipe Maze.vi" Type="VI" URL="../Day 10 - Pipe Maze/Day 10 - Pipe Maze.vi"/>
 	</Item>
 	<Item Name="Day 11" Type="Folder">
 		<Item Name="private" Type="Folder">

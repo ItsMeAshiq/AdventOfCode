@@ -83,7 +83,11 @@
 	<Item Name="Day 11" Type="Folder">
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Expand Universe.vi" Type="VI" URL="../Day 11 - Cosmic Expansion/Expand Universe.vi"/>
+			<Item Name="Get Galaxy Locations.vi" Type="VI" URL="../Day 11 - Cosmic Expansion/Get Galaxy Locations.vi"/>
+			<Item Name="Get Galaxy Pairs.vi" Type="VI" URL="../Day 11 - Cosmic Expansion/Get Galaxy Pairs.vi"/>
 		</Item>
+		<Item Name="Day 11 - Cosmic Expansion.vi" Type="VI" URL="../Day 11 - Cosmic Expansion/Day 11 - Cosmic Expansion.vi"/>
 	</Item>
 	<Item Name="Day 12" Type="Folder">
 		<Item Name="private" Type="Folder">

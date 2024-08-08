@@ -93,6 +93,7 @@
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
+		<Item Name="Day - 12 Hot Springs.vi" Type="VI" URL="../Day - 12 Hot Springs/Day - 12 Hot Springs.vi"/>
 	</Item>
 	<Item Name="Day 13" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -161,4 +162,5 @@
 		</Item>
 	</Item>
 	<Item Name="Debug" Type="Folder"/>
+	<Item Name="Get Possibilities.vi" Type="VI" URL="../Day - 12 Hot Springs/Get Possibilities.vi"/>
 </Library>

@@ -16,6 +16,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="AoC 2024.lvlib" Type="Library" URL="../AoC 2024.lvlib"/>
+		<Item Name="Day.vit" Type="VI" URL="../../Template/Day.vit"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="openg_array.lvlib" Type="Library" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/openg_array.lvlib"/>

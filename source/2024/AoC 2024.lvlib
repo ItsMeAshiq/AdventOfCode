@@ -34,6 +34,7 @@
 		<Item Name="private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
+		<Item Name="Day 4 - Ceres Search.vi" Type="VI" URL="../Day 4 - Ceres Search/Day 4 - Ceres Search.vi"/>
 	</Item>
 	<Item Name="Day 5" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
